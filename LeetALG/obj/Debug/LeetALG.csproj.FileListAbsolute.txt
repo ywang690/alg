@@ -1,0 +1,6 @@
+D:\!Platform\JamesALG\LeetALG\LeetALG\bin\Debug\LeetALG.dll
+D:\!Platform\JamesALG\LeetALG\LeetALG\bin\Debug\LeetALG.pdb
+D:\!Platform\JamesALG\LeetALG\LeetALG\obj\Debug\LeetALG.csproj.AssemblyReference.cache
+D:\!Platform\JamesALG\LeetALG\LeetALG\obj\Debug\LeetALG.csproj.CoreCompileInputs.cache
+D:\!Platform\JamesALG\LeetALG\LeetALG\obj\Debug\LeetALG.dll
+D:\!Platform\JamesALG\LeetALG\LeetALG\obj\Debug\LeetALG.pdb
