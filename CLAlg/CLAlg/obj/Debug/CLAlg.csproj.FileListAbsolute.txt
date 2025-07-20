@@ -1,0 +1,12 @@
+D:\!Platform\Dynapack\Git\CLAlg\CLAlg\bin\Debug\CLAlg.dll
+D:\!Platform\Dynapack\Git\CLAlg\CLAlg\bin\Debug\CLAlg.pdb
+D:\!Platform\Dynapack\Git\CLAlg\CLAlg\obj\Debug\CLAlg.csproj.AssemblyReference.cache
+D:\!Platform\Dynapack\Git\CLAlg\CLAlg\obj\Debug\CLAlg.csproj.CoreCompileInputs.cache
+D:\!Platform\Dynapack\Git\CLAlg\CLAlg\obj\Debug\CLAlg.dll
+D:\!Platform\Dynapack\Git\CLAlg\CLAlg\obj\Debug\CLAlg.pdb
+D:\!Platform\CLAlg\CLAlg\bin\Debug\CLAlg.dll
+D:\!Platform\CLAlg\CLAlg\bin\Debug\CLAlg.pdb
+D:\!Platform\CLAlg\CLAlg\obj\Debug\CLAlg.csproj.AssemblyReference.cache
+D:\!Platform\CLAlg\CLAlg\obj\Debug\CLAlg.csproj.CoreCompileInputs.cache
+D:\!Platform\CLAlg\CLAlg\obj\Debug\CLAlg.dll
+D:\!Platform\CLAlg\CLAlg\obj\Debug\CLAlg.pdb
