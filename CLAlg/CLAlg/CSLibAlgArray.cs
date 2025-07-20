@@ -13,5 +13,10 @@ namespace CLAlg
             int[] TwoSum = new int[nums.Length];
             return TwoSum;
         }
+        public bool LongestCommonPrefix()  //14
+        {
+            bool _result = false;
+            return _result;
+        }
     }
 }

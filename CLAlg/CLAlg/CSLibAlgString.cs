@@ -61,5 +61,10 @@ namespace CLAlg
             bool _result= false;
             return _result;
         }
+        public bool SearchInsertPosition()  //35
+        {
+            bool _result = false;
+            return _result;
+        }
     }
 }
