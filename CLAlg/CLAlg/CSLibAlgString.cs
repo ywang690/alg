@@ -28,9 +28,12 @@ namespace CLAlg
             return _output;
         }
 
-        public void ReverseString(char[] s) //344
+        public string ReverseString(char[] s) //344
         {
             string _output = "";
+            Array.Reverse(s);
+            
+            _output = new string(s);
             
             //_output = 
             //return _output;
@@ -42,6 +45,7 @@ namespace CLAlg
 
             //Input: s = ["H", "a", "n", "n", "a", "h"]
             //Output: ["h", "a", "n", "n", "a", "H"]
+            return _output;
         }
 
         public bool IsIsomorphic(string s, string t)    //205. Isomorphic Strings
