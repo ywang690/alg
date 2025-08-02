@@ -43,9 +43,13 @@
   <ItemGroup>
     <Compile Include="CSLibAlgArray.cs" />
     <Compile Include="CSLibAlgBinaryTree.cs" />
+    <Compile Include="CSLibAlgBitManipulation.cs" />
     <Compile Include="CSLibAlgLL.cs" />
+    <Compile Include="CSLibAlgQueue.cs" />
+    <Compile Include="CSLibAlgRecursion.cs" />
     <Compile Include="CSLibAlgString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CSLibAlgTree.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

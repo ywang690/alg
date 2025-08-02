@@ -18,5 +18,45 @@ namespace CLAlg
             bool _result = false;
             return _result;
         }
+        public bool LongestWord()   //720
+        { 
+            bool _LongestWord = false;
+            return _LongestWord;
+        }
+        public bool FindWords() //1160
+        {
+            bool _result = false;
+            return _result;
+        }
+        public bool GroupAnagrams() //490
+        { 
+            bool _GroupAnagrams = false;
+            return _GroupAnagrams;
+        }
+        public bool ValidAnagram()  //242
+        {
+            bool _ValidAnagram = false;
+            return _ValidAnagram;
+        }
+        public bool PalindromePairs()   //336
+        { 
+            bool _PalindromePairs = false;
+            return _PalindromePairs;
+        }
+        public bool LongestWordinDict() //524
+        {
+            bool _LongestWordinDict = false;
+            return _LongestWordinDict;
+        }
+        public bool ImplementTrie() //208
+        {
+            bool _ImplementTrie = false;
+            return _ImplementTrie;
+        }
+        public bool MaximumXOR()    //421
+        {
+            bool _MaximumXOR = false;
+            return _MaximumXOR;
+        }
     }
 }
