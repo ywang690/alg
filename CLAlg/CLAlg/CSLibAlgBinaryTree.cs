@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CLAlg
 {
-    internal class CSLibAlgBinaryTree
+    public class CSLibAlgBinaryTree
     {
         //94. Binary Tree Inorder Traversal
         public IList<int> InorderTraversal(TreeNode root)

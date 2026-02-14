@@ -8,35 +8,96 @@ namespace CLAlg
 {
     public class CSLibAlgBitManipulation
     {
-        public bool SingleNumber()   //136
+        public int Divide(int dividend, int divisor)    //DivideTwoIntegers 29
         {
-            bool _output = false;
-            return _output;
+            int divide = 0;
+            return divide;
         }
-        public bool AddBinary()   //67
+        public bool AddBinary() //Add Binary 67
         {
-            bool _output = false;
-            return _output;
+            bool _result = true;
+            return _result;
+        }
+        public bool Subsets()   //78
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool GrayCode()  //89
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool SubsetsII()   //90
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool SingleNumber() //136
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool SingleNumberII()    //137
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool RepeatedDNASequences()  //187
+        {
+            bool _result = true;
+            return _result;
         }
         public bool ReverseBits()   //190
         {
-            bool _output = false;
-            return _output;
+            bool _result = true;
+            return _result;
         }
-        public int HammingWeight(int n) //191
+        public bool NumberofOneBits()   //191
         {
-            int _output = 0;
-            return _output;
+            bool _result = true;
+            return _result;
         }
-        public bool IsPowerOfTwo(int n) //231
+        public bool BitwiseANDofNumbersRange()  //201
         {
-            bool _output = false;
-            return _output;
+            bool _result = true;
+            return _result;
         }
-        public bool MissingNumber(int[] nums) //268
+        public bool CountCompleteTreeNodes()    //222
         {
-            bool _output = false;
-            return _output;
+            bool _result = true;
+            return _result;
         }
+        public bool PowerofTwo()    //231
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool SingleNumberIII()   //260
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool PalindromePermutation() //266
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool MissingNumber() //268
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool FindtheDuplicateNumber()    //287
+        {
+            bool _result = true;
+            return _result;
+        }
+        public bool MaximumProductofWordLength()    //318
+        {
+            bool _result = true;
+            return _result;
+        }
+
     }
 }

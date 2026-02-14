@@ -1,0 +1,5 @@
+# 忽略 Visual Studio 索引檔
+*.vsidx
+
+# 忽略備份檔案
+*.bak
