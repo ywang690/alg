@@ -28,9 +28,12 @@ namespace CLAlg
             return _output;
         }
 
-        public void ReverseString(char[] s) //344
+        public string ReverseString(char[] s) //344
         {
             string _output = "";
+            Array.Reverse(s);
+            
+            _output = new string(s);
             
             //_output = 
             //return _output;
@@ -42,6 +45,7 @@ namespace CLAlg
 
             //Input: s = ["H", "a", "n", "n", "a", "h"]
             //Output: ["h", "a", "n", "n", "a", "H"]
+            return _output;
         }
 
         public bool IsIsomorphic(string s, string t)    //205. Isomorphic Strings
@@ -66,5 +70,56 @@ namespace CLAlg
             bool _result = false;
             return _result;
         }
+        public int LengthOfLastWord()  //58
+        {
+            int _LenOfLastWord = 0;
+            return _LenOfLastWord;
+        }
+        public string LongestCommonPrefix() //14
+        {
+            string _LongestCommonPrefix = "";
+            return _LongestCommonPrefix;
+        }
+        public string ReverseWordsinaString() //151
+        {
+            string _ReverseWordsinaString = "";
+            return _ReverseWordsinaString;
+        }
+        public string ReverseWordsinaStringII() //186
+        {
+            string _ReverseWordsinaStringII = "";
+            return _ReverseWordsinaStringII;
+        }
+        public string ReverseWordsinaStringIII() //557
+        {
+            string _ReverseWordsinaStringIII = "";
+            return _ReverseWordsinaStringIII;
+        }
+        public int NumOfSegmentsInaString() //434
+        {
+            int _NumOfSegmentsInaString = 0;
+            return _NumOfSegmentsInaString;
+        }
+        public string SmallestIndexWithEqualValue() //2057
+        {
+            string _SmallestIndexWithEqualValue = "";
+            return _SmallestIndexWithEqualValue;
+        }
+        public bool ValidPalindrome()   //125
+        { 
+            bool _ValidPalindrome = false;
+            return _ValidPalindrome;
+        }
+        public string BackspaceStringCompare()  //844
+        {
+            string _BackspaceStringCompare = "";
+            return _BackspaceStringCompare;
+        }
+        public bool ValidPalindromeII() //680
+        {
+            bool _ValidPalindromeII = false;
+            return _ValidPalindromeII;
+        }
+
     }
 }
